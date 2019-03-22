@@ -5,4 +5,4 @@
 
 ##### React Native Animation - Challenge
 
-- Day 1 : [Submit Button](https://github.com/imoddesign/React-Native-Challenge/blob/master/screens/submit-button/index.js)
+- Day 1 : [Submit Button](https://github.com/imoddesign/RN-Animation-Challenge/tree/master/screens/submit-button)
